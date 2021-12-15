@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FF9800</color>
+    <color name="purple_500">#FFC107</color>
+    <color name="purple_700">#FFC107</color>
+    <color name="teal_200">#FFC107</color>
+    <color name="teal_700">#FFC107</color>
+ //dark mode text color
+    <color name="black">#000000</color>
+  //light mode text color
+    <color name="white">#000000</color>
+</resources>
